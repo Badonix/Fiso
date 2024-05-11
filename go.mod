@@ -1,4 +1,4 @@
-module github.com/badonix/cobra-app
+module github.com/badonix/fiso
 
 go 1.22.0
 
