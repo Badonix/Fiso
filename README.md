@@ -4,7 +4,7 @@
 
 ---
 
-Golang useful applications collection
+Useful applications collection made using Golang
 #
 
 
