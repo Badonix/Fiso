@@ -32,7 +32,7 @@ go build -o fiso
 4\. Move the executable to path
 
 ```sh
-sudo mv shorten /usr/local/bin
+sudo mv fiso /usr/local/bin
 ```
 
 ### Usage
