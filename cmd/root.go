@@ -13,7 +13,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "fiso",
 	Short: "This tool is a collection of useful applications, right now the only tool existing allows you to shorten your url",
-	Long:  `I love cats`,
+	Long:  `I love cats <3`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) {
